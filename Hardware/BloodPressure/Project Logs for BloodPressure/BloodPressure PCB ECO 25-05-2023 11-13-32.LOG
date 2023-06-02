@@ -1,0 +1,4 @@
+Added Member To Class: ClassName=BloodPressure Member=Component R1 Resistor 1/4W
+Added Member To Class: ClassName=BloodPressure Member=Component R2 Resistor 1/4W
+Added Member To Class: ClassName=BloodPressure Member=Component R3 Resistor 1/4W
+Added Room: Name=BloodPressure

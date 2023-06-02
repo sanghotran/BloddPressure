@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=MOTOR Pin=B1-7
+Removed Pin From Net: NetName=VALVE Pin=B1-8
+Added Pin To Net: NetName=VALVE Pin=B1-7
+Added Pin To Net: NetName=MOTOR Pin=B1-8

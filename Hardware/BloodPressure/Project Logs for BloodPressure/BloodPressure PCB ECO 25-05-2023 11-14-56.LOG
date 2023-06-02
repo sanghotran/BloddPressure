@@ -1,0 +1,33 @@
+Change Component Designator: OldDesignator=* NewDesignator=*1
+Change Component Designator: OldDesignator=R1 NewDesignator=R9
+Change Component Designator: OldDesignator=R1 NewDesignator=R14
+Change Component Designator: OldDesignator=R2 NewDesignator=R8
+Change Component Designator: OldDesignator=R2 NewDesignator=R15
+Change Component Designator: OldDesignator=R3 NewDesignator=R10
+Change Component Designator: OldDesignator=R3 NewDesignator=R13
+Change Component Designator: OldDesignator=R4 NewDesignator=R1
+Change Component Designator: OldDesignator=R5 NewDesignator=R2
+Change Component Designator: OldDesignator=R6 NewDesignator=R3
+Change Component Designator: OldDesignator=R7 NewDesignator=R4
+Change Component Designator: OldDesignator=R8 NewDesignator=R5
+Change Component Designator: OldDesignator=R9 NewDesignator=R6
+Change Component Designator: OldDesignator=R10 NewDesignator=R7
+Change Component Designator: OldDesignator=Rg NewDesignator=Rg1
+Change Net Name : Old Net Name=NetR1_1 New Net Name=NetR9_1
+Change Net Name : Old Net Name=NetR1_2 New Net Name=NetR14_2
+Change Net Name : Old Net Name=NetR2_2 New Net Name=NetR13_2
+Change Net Name : Old Net Name=NetR3_1 New Net Name=NetR10_1
+Change Net Name : Old Net Name=NetR9_2 New Net Name=NetR6_2
+Change Net Name : Old Net Name=NetR10_2 New Net Name=NetR7_2
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetR8_1 Pin=R9-2
+Added Pin To Net: NetName=NetR8_1 Pin=U2-1
+Added Net: Name=NetR8_1
+Added Pin To Net: NetName=NetR14_1 Pin=R14-1
+Added Pin To Net: NetName=NetR14_1 Pin=Rg1-1
+Added Pin To Net: NetName=NetR14_1 Pin=U2-6
+Added Net: Name=NetR14_1
+Added Member To Class: ClassName=BloodPressure Member=Component R13 Resistor 1/4W
+Added Member To Class: ClassName=BloodPressure Member=Component R14 Resistor 1/4W
+Added Member To Class: ClassName=BloodPressure Member=Component R15 Resistor 1/4W
+Added Room: Name=BloodPressure

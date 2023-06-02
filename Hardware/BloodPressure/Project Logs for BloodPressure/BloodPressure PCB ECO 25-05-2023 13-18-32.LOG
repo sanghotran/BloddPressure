@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=STOP Pin=B1-26
+Removed Pin From Net: NetName=START Pin=B1-28
+Added Pin To Net: NetName=STOP Pin=B1-36
+Added Pin To Net: NetName=START Pin=B1-37
